@@ -1,0 +1,23 @@
+* {
+  font-size: large;
+  font-family: Arial, sans-serif;
+}
+.wrapper {
+  width: fit-content;
+  margin: auto;
+  justify-content: center;
+  padding: 2%;
+  text-decoration: none;
+  text-align: center;
+}
+h3,
+ul {
+  margin: 5;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
